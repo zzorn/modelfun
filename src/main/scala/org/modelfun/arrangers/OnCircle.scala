@@ -3,4 +3,4 @@ package org.modelfun.arrangers
 /**
  * 
  */
-case class Circular
+case class OnCircle

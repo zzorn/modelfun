@@ -1,5 +1,7 @@
 package org.modelfun
 
+import paths.Path
+
 /**
  * 
  */

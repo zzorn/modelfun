@@ -4,4 +4,9 @@ package org.modelfun
  * 
  */
 
-trait Model
+trait Model {
+
+  def render(renderer: ModelRenderer, detailLevel: DetailLevel)
+
+}
+  
