@@ -6,7 +6,7 @@ package org.modelfun
 
 trait Model {
 
-  def render(renderer: ModelRenderer, detailLevel: DetailLevel)
+  def render(renderer: ModelRenderer, detailLevel: DetailLevel, parameters: Parameters)
 
 }
   

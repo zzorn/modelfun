@@ -1,7 +1,9 @@
 package org.modelfun.arrangers
 
+import org.modelfun.Model
+
 /**
  * 
  */
 
-class OnSurface
+class OnSurface extends Model

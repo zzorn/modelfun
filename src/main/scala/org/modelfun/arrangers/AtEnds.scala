@@ -5,4 +5,4 @@ import paths.Path
 /**
  * 
  */
-case class AtEnds(item: Model, path: Path)
+case class AtEnds(item: Model, path: Path) extends Model

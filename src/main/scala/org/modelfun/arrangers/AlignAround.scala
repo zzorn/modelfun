@@ -3,4 +3,4 @@ package org.modelfun
 /**
  * 
  */
-case class AlignAround
+case class AlignAround extends Model

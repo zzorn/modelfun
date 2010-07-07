@@ -1,7 +1,9 @@
 package org.modelfun.arrangers
 
+import org.modelfun.Model
+
 /**
  * 
  */
 
-class AlongLine
+class AlongLine extends Model
