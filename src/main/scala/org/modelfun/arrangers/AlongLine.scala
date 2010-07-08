@@ -5,5 +5,4 @@ import org.modelfun.Model
 /**
  * 
  */
-
 class AlongLine extends Model

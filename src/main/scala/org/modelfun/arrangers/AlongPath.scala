@@ -5,4 +5,6 @@ import paths.{UnitPath, Path}
 /**
  * Instantiates the specified item along a path
  */
-case class AlongPath(item: Model, path: Path = UnitPath) extends Model
+case class AlongPath(item: Model, path:  ) extends Model {
+
+}
